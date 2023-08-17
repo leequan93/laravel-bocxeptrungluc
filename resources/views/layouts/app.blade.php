@@ -20,7 +20,6 @@
         <meta property="og:image:height" content="1412" />
 
         <link rel="canonical" href="https://bocxeptrungluc.com" />
-        <link rel="shortcut icon" href="/assets/images/favicon.png" type="image/x-icon">
         <link rel="icon" href="/assets/images/favicon.png" type="image/x-icon">
         <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Poppins:500,600,700,800%7CRoboto:400,500">
         <link rel="stylesheet" href="/assets/css/bootstrap.css">
