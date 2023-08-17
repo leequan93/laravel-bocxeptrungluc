@@ -24,7 +24,7 @@
         <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Poppins:500,600,700,800%7CRoboto:400,500">
         <link rel="stylesheet" href="/assets/css/bootstrap.css">
         <link rel="stylesheet" href="/assets/css/fonts.css">
-        <link rel="stylesheet" href="/assets/css/style.css">
+        <link rel="stylesheet" href="/assets/css/style.css?v={{ config('constants.fe_cache_version') }}">
         <style>
             .ie-panel {
                 display: none;
