@@ -1,10 +1,25 @@
 <!DOCTYPE html>
 <html class="wow-animation wide" lang="en">
     <head>
-        <title>VẬN TẢI BỐC XẾP - TRUNG LỰC</title>
+        <title>Bốc xếp Trung Lực - Bình Dương, Bàu Bàng, Tân Bình, VSIP, Mỹ Phước</title>
         <meta charset="utf-8">
+        <meta name="robots" content="noodp,index,follow" />
         <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+        <meta name="title" content="Bốc xếp Trung Lực - Khu công nghiệp Bình Dương, Bàu Bàng, Tân Bình, VSIP, Mỹ Phước">
+        <meta name="description" content="Dịch vụ bốc xếp kho hàng, kho bãi, hàng hóa container, xe tải| SĐT: 098 405 0424">
+        <meta name="keywords" content="Bốc xếp, Trung Lực, bốc xếp hàng, bốc xếp container, bốc xếp Bình Dương">
+
+        <meta property="og:title" content="Bốc xếp Trung Lực - Khu công nghiệp Bình Dương, Bàu Bàng, Tân Bình, VSIP, Mỹ Phước" />
+        <meta property="og:description" content="Dịch vụ bốc xếp kho hàng, kho bãi, hàng hóa container, xe tải| SĐT: 098 405 0424" />
+        <meta property="og:url" content="https://bocxeptrungluc.com/" />
+        <meta property="og:site_name" content="Bốc Xếp Trung Lực" />
+        <meta property="og:image" content="https://bocxeptrungluc.com/assets/images/slide-001.jpg" />
+        <meta property="og:image:width" content="2968" />
+        <meta property="og:image:height" content="1412" />
+
+        <link rel="canonical" href="https://bocxeptrungluc.com" />
         <link rel="icon" href="/assets/images/favicon.png" type="image/x-icon">
         <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Poppins:500,600,700,800%7CRoboto:400,500">
         <link rel="stylesheet" href="/assets/css/bootstrap.css">
@@ -35,11 +50,6 @@
         </style>
     </head>
     <body>
-        <div class="ie-panel">
-            <a href="http://windows.microsoft.com/en-US/internet-explorer/">
-                <img src="/assets/images/ie8-panel/warning_bar_0000_us.jpg" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today.">
-            </a>
-        </div>
         <div class="preloader">
             <div class="preloader-body">
                 <div class="cssload-dots">
@@ -123,76 +133,6 @@
                     </nav>
                 </div>
             </header>
-            <div class="section swiper-slider-wrapper">
-                <div class="bg-decoration">
-                    <div class="bg-decoration-item"></div>
-                    <div class="bg-decoration-item"></div>
-                    <div class="bg-decoration-item"></div>
-                    <div class="bg-decoration-item"></div>
-                    <div class="bg-decoration-item"></div>
-                </div>
-                <div class="swiper-container swiper-slider main-slider context-dark text-left swiper-modern" data-loop="false" data-autoplay="7500" data-custom-effect="parallax">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <figure class="slide-bgimg" style="background-image:url(assets/images/slide-001.jpg)">
-                                <img class="entity-img" src="/assets/images/slide-001.jpg" alt="" width="1894" height="777">
-                            </figure>
-                            <div class="container">
-                                <div class="swiper-slide-content section-lg">
-                                    <img src="/assets/images/logo.png" alt="" width="44" height="54" data-caption-animate="fadeInUpSmall" data-caption-delay="0" data-caption-duration="800">
-                                    <h6 data-caption-animate="fadeInUpSmall" data-caption-delay="200" data-caption-duration="800">
-                                        <span class="head-text">Bốc xếp Trung Lực</span>
-                                    </h6>
-                                    <h1 data-caption-animate="fadeInUpSmall" data-caption-delay="300" data-caption-duration="800">
-                                        <span>Chuyên cung cấp dịch vụ</span>
-                                        <br class="d-none d-sm-block">
-                                        <span>Bốc Xếp</span>
-                                    </h1>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <figure class="slide-bgimg" style="background-image:url(assets/images/slide-002.jpg)">
-                                <img class="entity-img" src="/assets/images/slide-002.jpg" alt="" width="1894" height="777">
-                            </figure>
-                            <div class="container">
-                                <div class="swiper-slide-content section-lg">
-                                    <img src="/assets/images/logo.png" alt="" width="44" height="54" data-caption-animate="fadeInUpSmall" data-caption-delay="0" data-caption-duration="800">
-                                    <h6 data-caption-animate="fadeInUpSmall" data-caption-delay="200" data-caption-duration="800">
-                                        <span class="head-text">Bốc xếp Trung Lực</span>
-                                    </h6>
-                                    <h1 data-caption-animate="fadeInUpSmall" data-caption-delay="300" data-caption-duration="800">
-                                        <span>Bốc Xếp</span>
-                                        <br class="d-none d-sm-block">
-                                        <span>Kho hàng, kho bãi</span>
-                                    </h1>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <figure class="slide-bgimg" style="background-image:url(assets/images/slide-003.jpg)">
-                                <img class="entity-img" src="/assets/images/slide-003.jpg" alt="" width="1894" height="777">
-                            </figure>
-                            <div class="container">
-                                <div class="swiper-slide-content section-lg">
-                                    <img src="/assets/images/logo.png" alt="" width="44" height="54" data-caption-animate="fadeInUpSmall" data-caption-delay="0" data-caption-duration="800">
-                                    <h6 data-caption-animate="fadeInUpSmall" data-caption-delay="200" data-caption-duration="800">
-                                        <span class="head-text">Bốc xếp Trung Lực</span>
-                                    </h6>
-                                    <h1 data-caption-animate="fadeInUpSmall" data-caption-delay="300" data-caption-duration="800">
-                                        <span>Bốc Xếp</span>
-                                        <br class="d-none d-sm-block">
-                                        <span>Hàng hóa container, xe tải</span>
-                                    </h1>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-pagination"></div>
-                    <div class="swiper-button-prev fa-angle-left fas"></div>
-                    <div class="swiper-button-next fa-angle-right fas"></div>
-                </div>
-            </div>
 
             @yield('content')
 

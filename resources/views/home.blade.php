@@ -1,6 +1,80 @@
 @extends('layouts.app')
 
 @section('content')
+    <div class="section swiper-slider-wrapper">
+        <div class="bg-decoration">
+            <div class="bg-decoration-item"></div>
+            <div class="bg-decoration-item"></div>
+            <div class="bg-decoration-item"></div>
+            <div class="bg-decoration-item"></div>
+            <div class="bg-decoration-item"></div>
+        </div>
+        <div class="swiper-container swiper-slider main-slider context-dark text-left swiper-modern" data-loop="false" data-autoplay="7500" data-custom-effect="parallax">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <figure class="slide-bgimg" style="background-image:url(assets/images/slide-001.jpg)">
+                        <img class="entity-img" src="/assets/images/slide-001.jpg" alt="" width="1894" height="777">
+                    </figure>
+                    <div class="container">
+                        <div class="swiper-slide-content section-lg">
+                            <img src="/assets/images/logo.png" alt="" width="44" height="54" data-caption-animate="fadeInUpSmall" data-caption-delay="0" data-caption-duration="800">
+                            <h6 data-caption-animate="fadeInUpSmall" data-caption-delay="200" data-caption-duration="800">
+                                <span class="head-text">Bốc xếp Trung Lực</span>
+                            </h6>
+                            <h2 data-caption-animate="fadeInUpSmall" data-caption-delay="300" data-caption-duration="800">
+                                <span>Chuyên cung cấp dịch vụ</span>
+                                <br class="d-none d-sm-block">
+                                <span>Bốc Xếp Bình Dương</span>
+                            </h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <figure class="slide-bgimg" style="background-image:url(assets/images/slide-002.jpg)">
+                        <img class="entity-img" src="/assets/images/slide-002.jpg" alt="" width="1894" height="777">
+                    </figure>
+                    <div class="container">
+                        <div class="swiper-slide-content section-lg">
+                            <img src="/assets/images/logo.png" alt="" width="44" height="54" data-caption-animate="fadeInUpSmall" data-caption-delay="0" data-caption-duration="800">
+                            <h6 data-caption-animate="fadeInUpSmall" data-caption-delay="200" data-caption-duration="800">
+                                <span class="head-text">Bốc xếp Trung Lực</span>
+                            </h6>
+                            <h2 data-caption-animate="fadeInUpSmall" data-caption-delay="300" data-caption-duration="800">
+                                <span>Bốc Xếp</span>
+                                <br class="d-none d-sm-block">
+                                <span>Kho hàng, kho bãi</span>
+                                <br class="d-none d-sm-block">
+                                <span>Hàng hóa container, xe tải</span>
+                            </h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <figure class="slide-bgimg" style="background-image:url(assets/images/slide-003.jpg)">
+                        <img class="entity-img" src="/assets/images/slide-003.jpg" alt="" width="1894" height="777">
+                    </figure>
+                    <div class="container">
+                        <div class="swiper-slide-content section-lg">
+                            <img src="/assets/images/logo.png" alt="" width="44" height="54" data-caption-animate="fadeInUpSmall" data-caption-delay="0" data-caption-duration="800">
+                            <h6 data-caption-animate="fadeInUpSmall" data-caption-delay="200" data-caption-duration="800">
+                                <span class="head-text">Bốc xếp Trung Lực</span>
+                            </h6>
+                            <h2 data-caption-animate="fadeInUpSmall" data-caption-delay="300" data-caption-duration="800">
+                                <span>Bốc Xếp</span>
+                                <br class="d-none d-sm-block">
+                                <span>Khu công nghiệp Bàu Bàng</span>
+                                <br class="d-none d-sm-block">
+                                <span>Tân Bình, VSIP 2, Mỹ Phước 1 2 3</span>
+                            </h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-pagination"></div>
+            <div class="swiper-button-prev fa-angle-left fas"></div>
+            <div class="swiper-button-next fa-angle-right fas"></div>
+        </div>
+    </div>
     <!-- Section Welcome -->
     <div class="section section-lg bg-default bg-with-icon" style="z-index: 3" id="about-us">
         <div class="bg-decoration">
@@ -30,8 +104,8 @@
                     <h6>
                         <span class="head-text">Về chúng tôi</span>
                     </h6>
-                    <h2>Dịch vụ bốc xếp chuyên nghiệp</h2>
-                    <p><b>CÔNG TY TNHH VẬN TẢI BỐC XẾP TRUNG LỰC</b> thành lập từ năm 2020.</p>
+                    <h1 class="mt-3">Dịch vụ bốc xếp chuyên nghiệp</h1>
+                    <p class="mt-5"><b>CÔNG TY TNHH VẬN TẢI BỐC XẾP TRUNG LỰC</b> thành lập từ năm 2020.</p>
                     <p>Mã số thuế <a target="_blank" href="https://masothue.com/3702855530-cong-ty-tnhh-van-tai-boc-xep-trung-luc">3702855530</a>.</p>
                     <p>Chuyên cung cấp dịch vụ bốc xếp kho hàng, kho bãi, hàng hóa container, xe tải tại Bình Duơng với giá thành cạnh tranh.</p>
                     <p>Đã và đang hợp tác với nhiều công ty, xí nghiệp tại các khu công nghiệp Bàu Bàng, Tân Bình, VSIP 2, Mỹ Phước 1 2 3, ....</p>
@@ -277,22 +351,22 @@
                 <div class="col-xl-8 flex-column">
                     <div class="slick-slider carousel-parent thumb-big-slider" data-arrows="false" data-loop="true" data-autoplay="true" data-dots="false" data-swipe="true" data-items="1" data-xs-items="2" data-sm-items="2" data-md-items="2" data-lg-items="3" data-xl-items="2" data-xxl-items="3" data-lightgallery="group">
                         <div class="thumb-big-slide wow fadeInRightSmall" data-wow-delay=".15s">
-                            <img src="/assets/images/gallery-001.jpg" alt="" width="400" height="453">
+                            <img src="/assets/images/gallery/001.jpg" alt="" width="400" height="453">
                         </div>
                         <div class="thumb-big-slide wow fadeInRightSmall" data-wow-delay=".3s">
-                            <img src="/assets/images/gallery-002.jpg" alt="" width="400" height="453">
+                            <img src="/assets/images/gallery/002.jpg" alt="" width="400" height="453">
                         </div>
                         <div class="thumb-big-slide wow fadeInRightSmall" data-wow-delay=".45s">
-                            <img src="/assets/images/gallery-03-400x453.jpg" alt="" width="400" height="453">
+                            <img src="/assets/images/gallery/003.jpg" alt="" width="400" height="453">
                         </div>
                         <div class="thumb-big-slide">
-                            <img src="/assets/images/gallery-04-400x453.jpg" alt="" width="400" height="453">
+                            <img src="/assets/images/gallery/004.jpg" alt="" width="400" height="453">
                         </div>
                         <div class="thumb-big-slide">
-                            <img src="/assets/images/gallery-05-400x453.jpg" alt="" width="400" height="453">
+                            <img src="/assets/images/gallery/005.jpg" alt="" width="400" height="453">
                         </div>
                         <div class="thumb-big-slide">
-                            <img src="/assets/images/gallery-06-400x453.jpg" alt="" width="400" height="453">
+                            <img src="/assets/images/gallery/006.jpg" alt="" width="400" height="453">
                         </div>
                     </div>
                 </div>

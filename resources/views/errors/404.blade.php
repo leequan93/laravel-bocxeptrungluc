@@ -16,8 +16,8 @@
                     </h6>
                     <h2>Sorry, but the page was not found</h2>
                     <div class="group">
-                        <a class="button button-primary button-ujarak" href="index.html">Go to home page</a>
-                        <a class="button button-default button-ujarak" href="contacts.html">Contacts</a>
+                        <a class="button button-primary button-ujarak" href="{{ route('home') }}">Go to home page</a>
+                        <a class="button button-default button-ujarak" href="tel:0984050424">Contacts</a>
                     </div>
                 </div>
             </div>

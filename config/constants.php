@@ -1,4 +1,4 @@
 <?php 
     return [
-        'fe_cache_version' => 2,
+        'fe_cache_version' => 3,
     ];
