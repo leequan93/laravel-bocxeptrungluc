@@ -109,8 +109,7 @@
                     <p>Mã số thuế <a target="_blank" href="https://masothue.com/3702855530-cong-ty-tnhh-van-tai-boc-xep-trung-luc">3702855530</a>.</p>
                     <p>Chuyên cung cấp dịch vụ bốc xếp kho hàng, kho bãi, hàng hóa container, xe tải tại Bình Duơng với giá thành cạnh tranh.</p>
                     <p>Đã và đang hợp tác với nhiều công ty, xí nghiệp tại các khu công nghiệp Bàu Bàng, Tân Bình, VSIP 2, Mỹ Phước 1 2 3, ....</p>
-                    <p>Bốc xếp Trung Lực cung cấp dịch vụ bốc vác / bốc xếp nhanh, hỗ trợ 24/24h kể cả ban đêm, hoạt động 24/7 kể cả ngày chủ nhật và ngày lễ.</p>
-                    <p>Đảm bảo dịch vụ uy tín, chất lượng và giá thành cạnh tranh.</p>
+                    <p>Bốc xếp Trung Lực cung cấp dịch vụ bốc vác / bốc xếp nhanh. Đảm bảo dịch vụ uy tín, chất lượng và giá thành cạnh tranh.</p>
                 </div>
             </div>
         </div>
